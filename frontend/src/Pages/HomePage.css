@@ -1,0 +1,37 @@
+.home-page {
+    font-family: "Arial", sans-serif;
+    background-color: #f9f9f9;
+    padding: 20px;
+    border-radius: 12px;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+}
+
+.home-page header {
+    margin-bottom: 40px;
+}
+
+.home-page header h1 {
+    color: #D92332; 
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+.home-page header p {
+    font-size: 24px;
+    color: #6c757d;
+}
+
+.home-page main img {
+    max-width: 100%;
+    height: auto;
+    border: 4px solid #D92332;
+    border-radius: 12px;
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.15);
+    margin-top: 20px;
+}
+
+.home-page footer {
+    margin-top: 40px;
+    font-size: 16px;
+    color: #6c757d;
+}

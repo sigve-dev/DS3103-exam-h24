@@ -1,0 +1,25 @@
+.card {
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+ /* 
+    Selv om det med bootstrap skal være unødvendig å designe farger, ville jeg 
+    holde knappene i løsningen lik til samme farge som jeg brukte med resten av løsningen. 
+    Fargene fant jeg, som nevnt i rapporten, fra følgende nettside:
+    https://color.adobe.com/nb/ld-trump-Color-Palette---color-hex-color-theme-12820607/
+ */
+
+.btn-primary {
+    background-color: #32378C;
+    border-color: #1A1440;
+}
+
+.btn-primary:hover {
+    background-color: #0056b3;
+    border-color: #004085;
+}
+
+.home-page{
+    color: #4147BF;
+}

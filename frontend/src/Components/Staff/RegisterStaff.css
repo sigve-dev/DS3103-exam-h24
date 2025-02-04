@@ -1,0 +1,88 @@
+.register-staff {
+    max-width: 500px; 
+    margin: 20px auto;
+    border: 4px solid #D92332; 
+    border-radius: 12px; 
+    background-color: #ffffff; 
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1); 
+    padding: 20px;
+    text-align: center;
+}
+
+.register-staff h3 {
+    color: #D92332; 
+    font-weight: bold;
+    margin-bottom: 20px;
+    font-size: 28px;
+}
+
+.register-staff .form-group {
+    display: flex;
+    flex-direction: column; 
+    align-items: center; 
+    margin-bottom: 12px;
+}
+
+.register-staff .form-group label {
+    font-weight: bold;
+    color: #343a40; 
+    margin-bottom: 4px;
+    text-align: center; 
+    width: 100%; 
+}
+
+.register-staff .form-control {
+    border: 0.4px solid #D92332; 
+    border-radius: 4px;
+    padding: 12px;
+    font-size: 16px;
+    transition: border-color 0.3s ease, box-shadow 0.3s ease; 
+    width: 100%; 
+    max-width: 400px; 
+    text-align: center; 
+}
+
+.register-staff .form-control:focus {
+    border-color: #D99282; 
+    box-shadow: 0 0 8px rgba(217, 146, 130, 0.5);
+    outline: none;
+}
+
+.register-staff .btn-primary {
+    background-color: #32378C; 
+    border: none;
+    padding: 12px 24px;
+    font-size: 24px;
+    font-weight: bold;
+    border-radius: 4px;
+    color: #ffffff;
+    cursor: pointer;
+    transition: background-color 0.3s ease, box-shadow 0.3s ease;
+    margin-top: 12px;
+    width: 100%; 
+    max-width: 200px;
+    align-self: center; 
+}
+
+.register-staff .btn-primary:hover {
+    background-color: #0056b3; 
+    box-shadow: 0 4px 12px rgba(217, 146, 130, 0.4); 
+}
+
+@media (max-width: 768px) {
+    .register-staff {
+        padding: 24px;
+    }
+
+    .register-staff h3 {
+        font-size: 24px; 
+    }
+
+    .register-staff .btn-primary {
+        font-size: 12px; 
+    }
+
+    .register-staff .form-control {
+        max-width: 100%;
+    }
+}
