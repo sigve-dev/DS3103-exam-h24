@@ -1,0 +1,61 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\sigve\\OneDrive\\Skrivebord\\Skole\\Kristiania\\Webutvikling\\DS3103_Eksamen_H24_39\\backend\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\sigve\\OneDrive\\Skrivebord\\Skole\\Kristiania\\Webutvikling\\DS3103_Eksamen_H24_39\\backend\\wwwroot\\images\\MAGA_bear.jpg",
+      "PackagePath": "staticwebassets\\images\\MAGA_bear.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sigve\\OneDrive\\Skrivebord\\Skole\\Kristiania\\Webutvikling\\DS3103_Eksamen_H24_39\\backend\\wwwroot\\images\\MAGA_candle.png",
+      "PackagePath": "staticwebassets\\images\\MAGA_candle.png"
+    },
+    {
+      "Id": "C:\\Users\\sigve\\OneDrive\\Skrivebord\\Skole\\Kristiania\\Webutvikling\\DS3103_Eksamen_H24_39\\backend\\wwwroot\\images\\MAGA_hat.png",
+      "PackagePath": "staticwebassets\\images\\MAGA_hat.png"
+    },
+    {
+      "Id": "C:\\Users\\sigve\\OneDrive\\Skrivebord\\Skole\\Kristiania\\Webutvikling\\DS3103_Eksamen_H24_39\\backend\\wwwroot\\images\\MAGA_hoodie.jpg",
+      "PackagePath": "staticwebassets\\images\\MAGA_hoodie.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sigve\\OneDrive\\Skrivebord\\Skole\\Kristiania\\Webutvikling\\DS3103_Eksamen_H24_39\\backend\\wwwroot\\images\\MAGA_jobbers.jpg",
+      "PackagePath": "staticwebassets\\images\\MAGA_jobbers.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sigve\\OneDrive\\Skrivebord\\Skole\\Kristiania\\Webutvikling\\DS3103_Eksamen_H24_39\\backend\\wwwroot\\images\\MAGA_slippers.png",
+      "PackagePath": "staticwebassets\\images\\MAGA_slippers.png"
+    },
+    {
+      "Id": "C:\\Users\\sigve\\OneDrive\\Skrivebord\\Skole\\Kristiania\\Webutvikling\\DS3103_Eksamen_H24_39\\backend\\wwwroot\\images\\MAGA_socks.jpg",
+      "PackagePath": "staticwebassets\\images\\MAGA_socks.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sigve\\OneDrive\\Skrivebord\\Skole\\Kristiania\\Webutvikling\\DS3103_Eksamen_H24_39\\backend\\wwwroot\\images\\MAGA_tote.png",
+      "PackagePath": "staticwebassets\\images\\MAGA_tote.png"
+    },
+    {
+      "Id": "C:\\Users\\sigve\\OneDrive\\Skrivebord\\Skole\\Kristiania\\Webutvikling\\DS3103_Eksamen_H24_39\\backend\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.backend.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.backend.props",
+      "PackagePath": "build\\backend.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.backend.props",
+      "PackagePath": "buildMultiTargeting\\backend.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.backend.props",
+      "PackagePath": "buildTransitive\\backend.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
